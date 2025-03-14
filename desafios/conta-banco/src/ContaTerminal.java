@@ -18,7 +18,9 @@ public class ContaTerminal {
         System.out.print("\nInsira seu saldo: ");
         Double saldo = sc.nextDouble();
 
-        String saida = String.format("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %f já está disponível para saque.", nome, agencia, numConta, saldo);
+        String saida = String.format(
+                "Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %f já está disponível para saque.",
+                nome, agencia, numConta, saldo);
         System.out.println(saida);
 
         sc.close();
