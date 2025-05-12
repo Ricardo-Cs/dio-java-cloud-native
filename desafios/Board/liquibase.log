@@ -1,0 +1,37 @@
+mai. 12, 2025 4:42:15 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202408191938.sql
+mai. 12, 2025 4:42:15 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202505121038.sql
+mai. 12, 2025 4:42:15 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202505121040.sql
+mai. 12, 2025 4:42:15 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202505121050.sql
+mai. 12, 2025 4:42:17 PM liquibase.changelog
+INFO: Reading from board.databasechangelog
+Database is up to date, no changesets to execute
+mai. 12, 2025 4:42:17 PM liquibase.changelog
+INFO: Reading from board.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: UPDATE SUMMARY
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: Run:                          0
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: Previously run:               4
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: Filtered out:                 0
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: -------------------------------
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: Total change sets:            4
+mai. 12, 2025 4:42:17 PM liquibase.util
+INFO: Update summary generated
+mai. 12, 2025 4:42:17 PM liquibase.command
+INFO: Command execution complete
